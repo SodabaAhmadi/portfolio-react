@@ -34,8 +34,13 @@ const About = () => {
         <h3 className='h3 mb-4'>
           I'm a Full Stack Developer with over a year of experience.
         </h3>
-        <p className=' mb-4'>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-           Accusamus impedit ipsum aut quaerat totam similique modi.
+        <p className=' mb-4'>  I’m a Software Engineer and Full Stack Developer passionate about building
+  modern, user-friendly web applications. I enjoy turning ideas into practical
+  digital solutions using technologies such as JavaScript, React, Node.js, and
+  Shopify. Alongside development, I have experience teaching programming and
+  web development, which has strengthened my communication, problem-solving,
+  and teamwork skills. I’m continuously learning new technologies, with a
+  growing interest in AI and backend development.
         </p>
 
         <div className='flex gap-x-6 lg:gap-x-10 mb-6'>
