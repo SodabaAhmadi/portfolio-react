@@ -29,9 +29,9 @@ const Work = () => {
                 Works
               </h2>
               <p className="max-w-sm mb-4">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque
-                in quo atque, aliquid quisquam fugit corrupti expedita soluta ea
-                eos dicta cumque dolores.
+                Here are some of my recent web development projects, built with React and modern web technologies. 
+                Each project reflects my focus on creating responsive, user-friendly interfaces while strengthening my skills in frontend development, API integration,
+                and application design.
               </p>
               <button className="btn btn-sm"><a href="https://github.com/SodabaAhmadi">View all Projects</a></button>
             </div>
