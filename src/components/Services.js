@@ -4,23 +4,19 @@ import {BsArrowUpRight} from 'react-icons/bs';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
 
-const services = [
-  {
-    name: 'Development',
-    description: '    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam, cum! Veniam earum ipsam laboriosam.',    
-    link:'Learn more',
-  },
-  {
-    name: 'UI/UX Design',
-    description: '    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam, cum! Veniam earum ipsam laboriosam.',    
-    link:'Learn more',
-  },
-  {
-    name: 'Tutoring',
-    description: '    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam, cum! Veniam earum ipsam laboriosam.',
-    link:'Learn more',
-  },
-]
+const services = [ { 
+  name: 'Development',
+  description: 'I build responsive and practical web applications using modern technologies such as React, JavaScript, Node.js, and Shopify.',
+  link: 'Learn more', 
+}, { 
+  name: 'UI/UX Design',
+  description: 'I create clean, user-friendly interfaces with a focus on usability, responsive design, and a smooth experience across devices.',
+  link: 'Learn more', 
+}, { 
+  name: 'Tutoring',
+  description: 'I teach programming and web development, helping students understand concepts through practical examples, projects, and hands-on learning.',
+  link: 'Learn more', 
+}, ];
 
 const Services = () => {
   return (
